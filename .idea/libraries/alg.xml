@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="alg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/guava-32.1.3-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-platform-console-standalone-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/truth-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
